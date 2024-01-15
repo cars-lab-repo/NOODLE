@@ -1,24 +1,21 @@
 # NOODLE: Uncertainty-Aware Hardware Trojan Detection Using Multimodal Deep Learning. 
+### Abstract
+
+The risk of hardware Trojans being inserted at various stages of chip production has increased in a zero-trust fabless era. To counter this, various machine learning solutions have been developed for the detection of hardware Trojans. While most of the focus has been on either a statistical or deep learning approach, the limited number of Trojan-infected benchmarks affects the detection accuracy and restricts the possibility of detecting zero-day Trojans. To close the gap, we first employ generative adversarial networks to amplify our data in two alternative representation modalities, a graph and a tabular one, ensuring that the dataset is distributed in a representative manner. Further, we propose a multimodal deep learning approach to detect hardware Trojans and evaluate the results from both early fusion and late fusion strategies. We also estimate the uncertainty quantification metrics of each prediction for risk-aware decision-making. The outcomes not only confirm the efficacy of our proposed hardware Trojan detection method but also open a new door for future studies employing multimodality and uncertainty quantification to address other hardware security challenges.
 
 ## A. Dataset 
 We have used two different dataset for the detection of hardware trojans. 
-
 ### 1. Synthetic dataset
 The dataste has binary label: _Trojan Free and Trojan Infected_. 
 Graph dataset are represented as .json files and Tabular dataaset in .csv file <br>
 The source code and results are in folder: ```synthetic-multimodal-graph_and_table```
-
 ### 2. Trust-Hub:  Chip Level Trojans 
 The dataste has binary label: _Trojan Free and Trojan Infected_. <br>
-
 #### 2.1 Graph dataset 
-<br>
 https://github.com/AICPS/hw2vec. <br>
 The source code and results are in the folder: source
-
 #### 2.2 Tabular dataset
-<br>
-Dataset Source: https://trust-hub.org/#/benchmarks/chip-level-trojan.
+Dataset Source: https://trust-hub.org/#/benchmarks/chip-level-trojan
 
 ## B. Proposed Solution 
 
@@ -64,8 +61,7 @@ GNU General Public License v3.0
 ```
 @INPROCEEDINGS{NOODLE,
   author={Vishwakarma, Rahul and Rezaei, Amin},
-  booktitle={2024 Design, Automation and Test in Europe Conference |
-The European Event for Electronic System Design & Test}, 
+  booktitle={2024 Design, Automation and Test in Europe Conference | The European Event for Electronic System Design & Test}, 
   title={NOODLE: Uncertainty-Aware Hardware Trojan Detection Using Multimodal Deep Learning}, 
   year={2024},
   volume={},
