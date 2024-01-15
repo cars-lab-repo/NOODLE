@@ -1,0 +1,50 @@
+{
+  "label": 1,
+  "edges": [
+    [
+      "top.AES.a1.in_graphrename_1",
+      "top.AES.a1.k0_graphrename_2",
+      "top.AES.a1.in_graphrename_1"
+    ],
+    [
+      "top.AES.a1.clk_graphrename_0",
+      "top.AES.a1.clk_graphrename_0",
+      "top.AES.a1.clk_graphrename_0"
+    ],
+    [
+      "top.AES.a1.in_graphrename_1",
+      "top.AES.a1.in_graphrename_1",
+      "PartSelect_graphrename_3"
+    ],
+    [
+      "PartSelect_graphrename_3",
+      "PartSelect_graphrename_3",
+      "top.AES.a1.k0_graphrename_2"
+    ],
+    [
+      "top.AES.a1.in_graphrename_1",
+      "top.AES.a1.in_graphrename_1",
+      "top.AES.a1.in_graphrename_1"
+    ]
+  ],
+  "features": {
+    "top.AES.a1.in_graphrename_1": [
+      [
+        "top.AES.a1.in_graphrename_1",
+        "top.AES.a1.in_graphrename_1"
+      ]
+    ],
+    "top.AES.a1.clk_graphrename_0": [
+      [
+        "top.AES.a1.clk_graphrename_0",
+        "top.AES.a1.clk_graphrename_0"
+      ]
+    ],
+    "PartSelect_graphrename_3": [
+      [
+        "top.AES.a1.k0_graphrename_2",
+        "PartSelect_graphrename_3"
+      ]
+    ]
+  }
+}
