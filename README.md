@@ -21,7 +21,7 @@ Dataset Source: https://trust-hub.org/#/benchmarks/chip-level-trojan
 
 ## B. Proposed Solution 
 
-![BigPicture](https://github.com/rahvis/DATE2024/assets/64368687/6822ba20-e9e0-4b66-b7e0-b0fdf30fe81e)
+![ProposedSolution](https://github.com/rahvis/DATE2024/assets/64368687/6822ba20-e9e0-4b66-b7e0-b0fdf30fe81e)
 
 ## C. Experiments
 Use the below Python source code for reproducing the results in the paper. 
@@ -49,7 +49,7 @@ source/04_late_fusion.py
 ```
 
 ## D. Results
-<img width="1217" alt="Screenshot 2023-09-21 at 10 46 38 AM" src="https://github.com/rahvis/DATE2024/assets/64368687/9eff7212-be20-42e9-a723-c338ae07749c">
+![Results](https://github.com/rahvis/DATE2024/assets/64368687/9eff7212-be20-42e9-a723-c338ae07749c)
 
 ## Contributions
 - Proposing a multimodal learning approach using graph and euclidean data of the hardware circuits.
