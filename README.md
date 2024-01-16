@@ -20,8 +20,7 @@ The source code and results are in the folder: source
 Dataset Source: https://trust-hub.org/#/benchmarks/chip-level-trojan
 
 ## B. Proposed Solution 
-
-![ProposedSolution](https://github.com/rahvis/DATE2024/assets/64368687/6822ba20-e9e0-4b66-b7e0-b0fdf30fe81e)
+![Solution](https://github.com/cars-lab-repo/NOODLE/assets/64368687/8e56628b-ec27-4e8a-a87f-dfc164e25dbd)
 
 ## C. Experiments
 Use the below Python source code for reproducing the results in the paper. 
@@ -49,7 +48,7 @@ source/04_late_fusion.py
 ```
 
 ## D. Results
-![Results](https://github.com/rahvis/DATE2024/assets/64368687/9eff7212-be20-42e9-a723-c338ae07749c)
+<img width="1217" alt="results" src="https://github.com/cars-lab-repo/NOODLE/assets/64368687/afb62ccc-eec8-488f-8156-f2ccd8507f41">
 
 ## Contributions
 - Proposing a multimodal learning approach using graph and euclidean data of the hardware circuits.
