@@ -62,12 +62,12 @@ GNU General Public License v3.0
 ```
 @INPROCEEDINGS{NOODLE,
   author={Vishwakarma, Rahul and Rezaei, Amin},
-  booktitle={Proceedings of 27th Design, Automation & Test in Europe Conference & Exhibition (DATE)}, 
+  booktitle={2024 Design, Automation & Test in Europe Conference & Exhibition (DATE)}, 
   title={Uncertainty-Aware Hardware Trojan Detection Using Multimodal Deep Learning}, 
   year={2024},
   volume={},
   number={},
-  pages={},
+  pages={1-6},
   doi={}
 }
 
