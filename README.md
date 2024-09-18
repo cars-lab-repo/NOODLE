@@ -68,6 +68,6 @@ GNU General Public License v3.0
   volume={},
   number={},
   pages={1-6},
-  doi={}
+  doi={10.23919/DATE58400.2024.10546558}
 }
 
