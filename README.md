@@ -59,8 +59,20 @@ source/04_late_fusion.py
 GNU General Public License v3.0
 
 ## Citation
+Journal Article:
 ```
-@INPROCEEDINGS{NOODLE,
+@ARTICLE{Journal-2025,
+  author={Vishwakarma, Rahul and Rezaei, Amin},
+  title={Uncertainty-Aware Unimodal and Multimodal Learning for Evolving Hardware Trojan Detection},
+  journal={Journal of Hardware and Systems Security},
+  year={2025},
+  volume={},
+  number={},
+  pages={},
+  doi={10.1007/s41635-025-00160-2}
+}
+```
+@INPROCEEDINGS{Conference-2024,
   author={Vishwakarma, Rahul and Rezaei, Amin},
   booktitle={2024 Design, Automation & Test in Europe Conference & Exhibition (DATE)}, 
   title={Uncertainty-Aware Hardware Trojan Detection Using Multimodal Deep Learning}, 
