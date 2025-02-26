@@ -72,6 +72,8 @@ Journal Article:
   doi={10.1007/s41635-025-00160-2}
 }
 ```
+Conference Article:
+```
 @INPROCEEDINGS{Conference-2024,
   author={Vishwakarma, Rahul and Rezaei, Amin},
   booktitle={2024 Design, Automation & Test in Europe Conference & Exhibition (DATE)}, 
